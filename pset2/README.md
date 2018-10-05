@@ -116,9 +116,9 @@ Insert about me
 
 ---
 ### Richard Green
-<img src='' width='150'>
+<img src='images/richimage.jpg' width='150'>
 
-Insert about me
+I am tall dark and handsome! ;)
 
 ---
 ### Nicole Hopkins
